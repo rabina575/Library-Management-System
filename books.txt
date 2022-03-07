@@ -1,0 +1,10 @@
+01,  I Want to Eat Your Pancreas , Yoru Sumino       ,50, 11.99
+02,  Wolf Children: Ame & Yuki   , Mamoru Hosoda     ,50, 14.99
+03,  Solo Leveling               , Chugong           ,50, 11.99
+04,  Toradora                    , Yuyuko Takemiya   ,50, 10.99
+05,  Naruto                      , Masashi Kishimoto ,50, 10.99
+06,  Black Butler                , Yana Toboso       ,50, 09.99
+07,  Assassination Classroom     , Yusei Matsui      ,50, 07.99
+08,  Tokyo Ghoul                 , Sui Ishida        ,50, 08.99
+09,  City of Bones               , Cassandra Clare   ,50, 08.99
+10,  The Haunting of Hill House  , Shirley Jackson   ,50, 09.99
